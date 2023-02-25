@@ -6,7 +6,6 @@ require (
 	github.com/AdhityaRamadhanus/fasthttpcors v0.0.0-20170121111917-d4c07198763a
 	github.com/Sirupsen/logrus v1.0.6
 	github.com/cenkalti/backoff v2.2.1+incompatible
-	github.com/creack/pty v1.1.9 // indirect
 	github.com/dapr/components-contrib v0.0.0-20191108224343-bd36a6759fe4
 	github.com/emicklei/go-restful v2.10.0+incompatible // indirect
 	github.com/evanphx/json-patch v4.2.0+incompatible // indirect
@@ -27,7 +26,6 @@ require (
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/klauspost/compress v1.5.0 // indirect
 	github.com/klauspost/cpuid v1.2.1 // indirect
-	github.com/kr/pty v1.1.8 // indirect
 	github.com/mailru/easyjson v0.7.0 // indirect
 	github.com/minio/blake2b-simd v0.0.0-20160723061019-3f5f724cb5b1
 	github.com/mitchellh/mapstructure v1.1.2
@@ -36,13 +34,14 @@ require (
 	github.com/phayes/freeport v0.0.0-20171002181615-b8543db493a5
 	github.com/qiangxue/fasthttp-routing v0.0.0-20160225050629-6ccdc2a18d87
 	github.com/stretchr/testify v1.4.0
+	github.com/tidwall/pretty v1.2.1 // indirect
 	github.com/valyala/fasthttp v1.4.0
 	go.opencensus.io v0.22.1
 	gonum.org/v1/gonum v0.0.0-20190911200027-40d3308efe80 // indirect
 	google.golang.org/grpc v1.24.0
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.4
 	k8s.io/api v0.0.0-20190819141258-3544db3b9e44
-	k8s.io/apimachinery v0.0.0-20190817020851-f2f3a405f61d
+	k8s.io/apimachinery v0.15.7
 	k8s.io/client-go v0.0.0-20190620085101-78d2af792bab
 	k8s.io/code-generator v0.0.0-20190912042602-ebc0eb3a5c23
 	k8s.io/gengo v0.0.0-20190907103519-ebc107f98eab // indirect
